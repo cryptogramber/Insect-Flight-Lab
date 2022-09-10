@@ -24,7 +24,7 @@ Series of tools designed for observing and experimenting with the mechanics of i
 
 ### Insect Virtual Flight Arena/Rear Projection System Components
 
-![torquearena](https://user-images.githubusercontent.com/83111496/189475163-1a2f11ed-5e9a-45d8-aab1-c2d9d0232ffb.png)
+![torquearena](https://user-images.githubusercontent.com/83111496/189475163-1a2f11ed-5e9a-45d8-aab1-c2d9d0232ffb.png | width=300)
 
 - Curved rear projection screen (sheet of mylar from your local art store works fine)
 - VSL Software (Win & OSX Versions)
